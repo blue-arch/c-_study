@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "ostream": "cpp"
+    },
+    "files.autoSave": "afterDelay",
+    "files.encoding": "gbk",
+    "files.autoGuessEncoding": true
+}
