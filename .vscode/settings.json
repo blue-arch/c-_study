@@ -3,7 +3,7 @@
         "iostream": "cpp",
         "ostream": "cpp"
     },
-    "files.autoSave": "afterDelay",
+    "files.autoSave": "onFocusChange",
     "files.encoding": "gbk",
     "files.autoGuessEncoding": true
 }
