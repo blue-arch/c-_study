@@ -63,15 +63,17 @@ public:
 };
 
 //ÒµÎñº¯Êý
-void DoWork(AbstractDrinking* drink) {
-	drink->MakeDrink();
-	delete drink;
+void DoWork(AbstractDrinking & drink) {
+	drink.MakeDrink();
+	// delete &drink;
 }
 
 void test01() {
-	DoWork(new Coffee);
+    Coffee c;
+	DoWork(c);
 	cout << "--------------" << endl;
-	DoWork(new Tea);
+    Tea t;
+	DoWork(t);
 }
 
 
