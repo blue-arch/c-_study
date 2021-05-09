@@ -3,7 +3,10 @@
         "iostream": "cpp",
         "ostream": "cpp",
         "iosfwd": "cpp",
-        "cstdlib": "cpp"
+        "cstdlib": "cpp",
+        "algorithm": "cpp",
+        "vector": "cpp",
+        "string": "cpp"
     },
     "files.autoSave": "onFocusChange",
     "files.encoding": "gbk",
