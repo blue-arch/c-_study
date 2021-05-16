@@ -6,7 +6,8 @@
         "cstdlib": "cpp",
         "algorithm": "cpp",
         "vector": "cpp",
-        "string": "cpp"
+        "string": "cpp",
+        "typeinfo": "cpp"
     },
     "files.autoSave": "onFocusChange",
     "files.encoding": "gbk",
