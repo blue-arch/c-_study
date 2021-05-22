@@ -3,7 +3,9 @@
 using namespace std;
 #include<vector>
 #include<deque>
-#include<random>
+#include<algorithm>
+#include<ctime>
+// #include<stdlib.h>
 
 //—° ÷¿‡
 class Person
