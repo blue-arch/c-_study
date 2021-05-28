@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "数据结构.Test",
+            "projectName": "c++_study_8e7d1217"
+        },
+        {
+            "type": "java",
             "name": "Launch A",
             "request": "launch",
             "mainClass": "A",
